@@ -24,4 +24,4 @@
 um verdadeiro mestre é um eterno aprendiz
 
 ## Últimos videos;
-- [em breve](https://studio.youtube.com/video/w-QhTeVRTdc/edit)
+- [em breve](https://youtu.be/w-QhTeVRTdc)
