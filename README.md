@@ -26,3 +26,7 @@ um verdadeiro mestre é um eterno aprendiz
 
 ## Últimos videos;
 - [em breve](https://youtu.be/w-QhTeVRTdc)
+<br/>
+## Visitantes;
+<br/>
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Rony-S/count.svg" /></p>
