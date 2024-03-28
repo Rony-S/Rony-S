@@ -1,7 +1,8 @@
 
 ### Olá! eu sou o Rony 👋
 
-[![blog](https://img.shields.io/website?label=silverstars.shop&style=for-the-badge&url=https://silverstars.shop)](https://silverstars.shop)
+### INFELIZMENTE O SITE ESTA FORA DO AR,EM BREVE VAMOS REFAZER UM NOVO SITE, ENTRE NO GRUPO PARA PEGAR OS CÓDIGOS 
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Spectrum_bots)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rony_.online)
 [![Instagram](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@rony.on)
